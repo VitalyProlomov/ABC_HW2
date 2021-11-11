@@ -1,0 +1,15 @@
+average real representation = 4.593582
+Sorted container:
+Container contains 7 elements.
+0: It is Rational_number: 3/5. RealRepresentation = 0.600000
+1: It is Rational_number: 4/6. RealRepresentation = 0.666667
+2: It is a polar coordinates number: Length = 1, Radians = -6.
+Real representation = 1.000000
+3: It is Complex_number: real_part = 4, imaginary_part = 5
+RealRepresentation = 6.403124
+4: It is a polar coordinates number: Length = 6, Radians = 77.
+Real representation = 6.000000
+5: It is Complex_number: real_part = 6, imaginary_part = -6
+RealRepresentation = 8.485281
+6: It is Complex_number: real_part = 0, imaginary_part = 9
+RealRepresentation = 9.000000

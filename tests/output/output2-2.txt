@@ -1,0 +1,15 @@
+average real representation = 19.044020
+Sorted container:
+Container contains 6 elements.
+0: It is Complex_number: real_part = 10, imaginary_part = 10
+RealRepresentation = 14.142136
+1: It is Complex_number: real_part = 5, imaginary_part = -5
+RealRepresentation = 7.071068
+2: It is Complex_number: real_part = 9, imaginary_part = -2
+RealRepresentation = 9.219544
+3: It is Complex_number: real_part = 3, imaginary_part = 4
+RealRepresentation = 5.000000
+4: It is Complex_number: real_part = 5, imaginary_part = 6
+RealRepresentation = 7.810250
+5: It is Complex_number: real_part = 12, imaginary_part = -70
+RealRepresentation = 71.021124

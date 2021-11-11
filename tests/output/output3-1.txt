@@ -1,0 +1,8 @@
+Filled container:
+Container contains 6 elements.
+1: It is a polar coordinates number: Length = 10, Radians = 23. Real representation = 10
+2: It is a polar coordinates number: Length = 56, Radians = 76. Real representation = 56
+3: It is a polar coordinates number: Length = 3, Radians = 0. Real representation = 3
+4: It is a polar coordinates number: Length = 2, Radians = 9. Real representation = 2
+5: It is a polar coordinates number: Length = 4, Radians = 9. Real representation = 4
+6: It is a polar coordinates number: Length = 4, Radians = 6. Real representation = 4

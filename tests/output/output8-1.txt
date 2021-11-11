@@ -1,0 +1,22 @@
+Filled container:
+Container contains 20 elements.
+1: It is complex number: Real part = 3, imaginary = 4. Real representation = 5
+2: It is a rational number: 1/5. Real representation = 0.2
+3: It is a polar coordinates number: Length = 6, Radians = -10. Real representation = 6
+4: It is complex number: Real part = 4, imaginary = 5. Real representation = 6.40312
+5: It is a rational number: 3/5. Real representation = 0.6
+6: It is a polar coordinates number: Length = 6, Radians = 77. Real representation = 6
+7: It is a rational number: 4/6. Real representation = 0.666667
+8: It is a polar coordinates number: Length = 1, Radians = -6. Real representation = 1
+9: It is complex number: Real part = 6, imaginary = -6. Real representation = 8.48528
+10: It is complex number: Real part = 0, imaginary = 9. Real representation = 9
+11: It is a rational number: 9/8. Real representation = 1.125
+12: It is a rational number: -13/55. Real representation = -0.236364
+13: It is complex number: Real part = 0, imaginary = 0. Real representation = 0
+14: It is a rational number: 3/0. Real representation = inf
+15: It is a polar coordinates number: Length = 9, Radians = 9. Real representation = 9
+16: It is complex number: Real part = 5, imaginary = 5. Real representation = 7.07107
+17: It is complex number: Real part = 4, imaginary = 7. Real representation = 8.06226
+18: It is complex number: Real part = 8, imaginary = -9. Real representation = 12.0416
+19: It is a polar coordinates number: Length = 6, Radians = -10. Real representation = 6
+20: It is complex number: Real part = 4, imaginary = 5. Real representation = 6.40312

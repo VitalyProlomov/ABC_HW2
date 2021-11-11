@@ -1,0 +1,8 @@
+Filled container:
+Container contains 6 elements.
+1: It is a rational number: 3/4. Real representation = 0.75
+2: It is a rational number: 0/8. Real representation = 0
+3: It is a rational number: 4/5. Real representation = 0.8
+4: It is a rational number: 0/2. Real representation = 0
+5: It is a rational number: -4/3. Real representation = -1.33333
+6: It is a rational number: 5/-6. Real representation = -0.833333

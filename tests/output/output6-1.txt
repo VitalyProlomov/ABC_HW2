@@ -1,0 +1,13 @@
+Filled container:
+Container contains 6 elements.
+0: It is Complex_number: real_part = 8, imaginary_part = -9
+RealRepresentation = 12.041595
+1: It is Complex_number: real_part = 0, imaginary_part = 0
+RealRepresentation = 0.000000
+2: It is a polar coordinates number: Length = 9, Radians = 9.
+Real representation = 9.000000
+3: It is Complex_number: real_part = 5, imaginary_part = 5
+RealRepresentation = 7.071068
+4: It is Complex_number: real_part = 4, imaginary_part = 7
+RealRepresentation = 8.062258
+5: It is Rational_number: 3/8. RealRepresentation = 0.375000
